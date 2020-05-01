@@ -1,7 +1,7 @@
 {
 	"name": "blownode",
 	"version": "1.0.0",
-	"description": "A simple app for build website with node and express with auth",
+	"description": "A simple starter for build website with node, express, React with auth",
 	"main": "index.js",
 	"scripts": {
 		"start": "nodemon indedx.js"
