@@ -1,0 +1,8 @@
+#Folders to Ignore
+node_modules
+node_modules/
+
+
+# Locak Files
+yarn.lock
+package-lock.json
