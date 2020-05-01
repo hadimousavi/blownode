@@ -2,9 +2,9 @@
 	"name": "blownode",
 	"version": "1.0.0",
 	"description": "A simple starter for build website with node, express, React with auth",
-	"main": "index.js",
+	"main": "./server/index.js",
 	"scripts": {
-		"start": "nodemon indedx.js"
+		"start": "nodemon ./server/indedx.js"
 	},
 	"keywords": [
 		"nodejs",
